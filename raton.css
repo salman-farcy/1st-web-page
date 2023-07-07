@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.containar{
+     display: flex;
+     background-color: black;
+     color: aliceblue;
+     align-items: center;
+    
+     list-style: none;
+     
+     justify-content: space-around;
+
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.one{
+    margin: 55px;
+    font-size: 25px;
+    
+}
+.one:hover{
+    color: crimson;
+}
+.logo-one{
+    margin: left 0px;
+    padding: 00px;
+    height: 100px;
+    width: 100px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(0, 255, 85);
+    border: none;
+    margin-top: 25px;
+
+}
+p{
+    font-style: italic;
+    color: aliceblue;
+    
+
+}
+.btn{
+    color: azure;
+    background-color: black;
+    font: style 10px;
+    padding: 10px;
+    margin: 20px;
+    ;
+}
+.pic-1 img{
+    height: 300px;
+    width: 250px;
+    border-radius:50% ;
+    padding: 20px;
+    background-color: darkgoldenrod;
+    display: flex;
+    justify-content: space-around;
+    margin: 25px;
+
+}
+.containar-02{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(133, 45, 92);
+}
+h3{
+    padding: 5px;
+    font-size: 20px;
+
+}
