@@ -74,4 +74,30 @@ h3{
     padding: 5px;
     font-size: 20px;
 
+
+}
+
+.pic-02 img{
+    height: 300px;
+    width: 250px;
+    border-radius:50% ;
+    padding: 20px;
+    background-color: rgb(125, 51, 128);
+   
+    
+    margin: 25px;
+
+}
+.text{
+    color: aliceblue;
+}
+.second{
+    background-color: rgb(53, 29, 29);
+    display: flex;
+    justify-content: space-around;
+}
+.hi{
+    color: aliceblue;
+    font-size: 25px;
+    padding-top: 30px;
 }
