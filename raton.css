@@ -168,6 +168,28 @@ h3{
     display: flex;
 
 }
-.three{
-   
+.last-div{
+    display: flex;
+    background-color: rgb(43, 40, 40);
+    justify-content: space-around;
+    
 }
+.five{
+    font-size: 30px;
+    color: azure;
+    padding-top: 30px;
+    
+}
+h5{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    color: rgb(195, 195, 219);
+   
+    
+}
+.finish{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+}
+   
