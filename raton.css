@@ -137,3 +137,37 @@ h3{
     text-align: center;
     margin-top: 0px;
 }
+.title-03{
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    margin: 0px;
+}
+.imt{
+    font-style: italic;
+    font-size: 40px;
+    color: black(161, 184, 35);
+    padding: 15px;
+    font-style: underline;
+}
+.pra{
+    color: rgb(117, 211, 23);
+    
+    background-color: rgb(211, 54, 54);
+    padding: 25px;
+    border-radius: 20px;
+}
+  
+.main img{
+    width: 350px;
+    height: 400px;
+    margin-top: 150px;
+}
+.four{
+    background-color: rgb(226, 127, 127);
+    display: flex;
+
+}
+.three{
+   
+}
